@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
-
+// This is for an fps to contiue drawing colliders where the player looks
 public class PlayerTargeting : MonoBehaviour
 {
     [SerializeField]
